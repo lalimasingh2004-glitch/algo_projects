@@ -42,7 +42,7 @@ The goal is to identify distinct customer groups based on their demographics and
 - Examined **gender distribution** within each cluster  
 
 ![Age Analysis](1.png)
-![Gender Analysis](4.png)
+![Gender Analysis](3.png)
 
 ---
 
