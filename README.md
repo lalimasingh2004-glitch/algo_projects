@@ -1,7 +1,5 @@
 #  Customer Segmentation Analysis using K-Means Clustering
 
-![Customer Segmentation Overview](1.png)
-
 ##  Project Overview
 This project performs **customer segmentation analysis** on mall customer data using the **K-Means clustering algorithm**.  
 The goal is to identify distinct customer groups based on their demographics and spending behavior to enable **targeted marketing strategies**.
@@ -30,20 +28,21 @@ The goal is to identify distinct customer groups based on their demographics and
 - Analyzed the clustering score vs number of clusters  
 - Selected **5 clusters** based on the elbow point  
 
-![Elbow Method](2.png)
+![Elbow Method](4.png)
 
 ### 3. K-Means Clustering
 - Implemented K-Means with **5 clusters**  
 - Visualized cluster formation and centroid movement  
 - Plotted customer segments based on **Annual Income** vs **Spending Score**
 
-![Customer Segmentation](3.png)
+![Customer Segmentation](2.png)
 
 ### 4. Cluster Analysis
 - Analyzed **age distribution** across clusters using box plots  
 - Examined **gender distribution** within each cluster  
 
-![Age and Gender Analysis](4.png)
+![Age Analysis](1.png)
+![Gender Analysis](4.png)
 
 ---
 
