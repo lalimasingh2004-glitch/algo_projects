@@ -129,6 +129,7 @@ The goal is to identify distinct customer groups based on their demographics and
 ---
 
 ##  Project Structure
+ ```
 customer-segmentation/
 │
 ├── 1.png ## Age distribution per cluster
@@ -137,7 +138,7 @@ customer-segmentation/
 ├── 4.png ## The elbow method
 ├── customer_segmentation.ipynb ## Code notebook 
 └── README.md
-
+ ```
 ---
 
 ##  Results
