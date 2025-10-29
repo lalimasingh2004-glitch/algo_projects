@@ -56,31 +56,31 @@ The goal is to identify distinct customer groups based on their demographics and
 
 ##  Business Insights
 
-### 🟢 Cluster 0: Middle-Income, Moderate Spenders
+###  Cluster 0: Middle-Income, Moderate Spenders
 - Size: 81 customers (40.5%)  
 - Gender: 59% Female, 41% Male  
 - Age Range: 18–70 (Median ~47)  
 - **Marketing Strategy:** Seasonal offers, loyalty programs, and family-oriented campaigns.
 
-### 🟡 Cluster 1: Middle-Income, High Spenders
+###  Cluster 1: Middle-Income, High Spenders
 - Size: 39 customers (19.5%)  
 - Gender: 54% Female, 46% Male  
 - Age Range: 27–40 (Median ~32)  
 - **Marketing Strategy:** Exclusive deals, credit options, influencer campaigns.
 
-### 🔵 Cluster 2: Low-Income, Low Spenders
+###  Cluster 2: Low-Income, Low Spenders
 - Size: 22 customers (11%)  
 - Gender: 59% Female, 41% Male  
 - Age Range: 18–35 (Median ~24)  
 - **Marketing Strategy:** Discounts, referral programs, entry-level products.
 
-### 🟣 Cluster 3: High-Income, Low Spenders
+###  Cluster 3: High-Income, Low Spenders
 - Size: 35 customers (17.5%)  
 - Gender: 46% Female, 54% Male  
 - Age Range: 18–60 (Median ~42)  
 - **Marketing Strategy:** Value-based messaging, personalized service, premium education content.
 
-### 🔴 Cluster 4: High-Income, High Spenders
+###  Cluster 4: High-Income, High Spenders
 - Size: 23 customers (11.5%)  
 - Gender: 61% Female, 39% Male  
 - Age Range: 18–67 (Median ~46)  
